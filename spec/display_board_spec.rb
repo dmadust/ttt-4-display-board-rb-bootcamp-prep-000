@@ -137,7 +137,7 @@ describe "#display_board in 'lib/display_board.rb" do
     end
 
     it 'prints an entire board full of Xs' do
-      board = ["X", ]
+      board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 
       # Define the board with values that should create the desired output
       # *** Edit the line below ***
